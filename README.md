@@ -3,3 +3,5 @@ Script to scan a document page by page using webcam and return the translated do
 
 Link to project:
 https://github.com/tdezwart/document-translator
+
+github test
